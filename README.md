@@ -17,7 +17,9 @@ La pantalla principal realiza este flujo:
 
 ## Captura de Pantalla
 
-<img src="./assets/images/pantalla-inicio.PNG" alt="Pantalla de inicio del sistema" width="420" />
+<p align="center">
+	<img src="./assets/images/pantalla-inicio.PNG" alt="Pantalla de inicio del sistema" width="420" />
+</p>
 
 ## Tecnologia Utilizada
 
