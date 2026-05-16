@@ -17,11 +17,7 @@ La pantalla principal realiza este flujo:
 
 ## Captura de Pantalla
 
-Aqui puedes mostrar una vista real del sistema para documentar como se ve en ejecucion.
-
-Imagen incluida en el proyecto:
-
-![Pantalla de inicio del sistema](./assets/images/pantalla-inicio.PNG)
+<img src="./assets/images/pantalla-inicio.PNG" alt="Pantalla de inicio del sistema" width="420" />
 
 ## Tecnologia Utilizada
 

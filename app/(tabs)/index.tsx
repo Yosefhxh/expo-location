@@ -1,17 +1,17 @@
+import { isDevice } from 'expo-device';
+import * as Location from 'expo-location';
 import { useEffect, useRef, useState } from 'react';
 import {
   ActivityIndicator,
+  Platform,
   Pressable,
   SafeAreaView,
-  Platform,
+  ScrollView,
   StyleSheet,
   Text,
   View,
-  ScrollView,
 } from 'react-native';
 import MapView, { Marker, type LatLng, type Region } from 'react-native-maps';
-import { isDevice } from 'expo-device';
-import * as Location from 'expo-location';
 
 type LocationDetails = {
   title: string;
